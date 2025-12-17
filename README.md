@@ -1,4 +1,4 @@
-# 👋 Hi, I'm IceAge
+# 👋 Hi, I'm IceAge <img src="https://cdn.discordapp.com/attachments/1309232241028632577/1450762630305157131/rexrundet.png?ex=6943b77c&is=694265fc&hm=aef327d5f228b615f2b1e9f5c57e3fb1068ee58f5bb5e913377dfc1c2a18e5e7&" width="32">
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/6cxK4NqQ8V)
 [![Insta me](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/iceage7878yy/)
