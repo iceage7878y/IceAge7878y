@@ -62,7 +62,7 @@ Realistic emergency services systems with structured procedures and immersive ro
 
 <td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=discord" width="120" alt="T&T Studio Logo"/>
+<img src="https://r2.fivemanage.com/aPicDRxqjfLR0M9odLijU/90b77ea98a31a78757a77bd9c4238896.png" width="120" alt="T&T Studio Logo"/>
 
 ### T&T Studio
 **FiveM Development Studio**
