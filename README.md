@@ -24,6 +24,63 @@ I enjoy building scripts, systems, and clean UI solutions that improve roleplay 
 </p>
 
 
+## 🚀 Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://r2.fivemanage.com/aPicDRxqjfLR0M9odLijU/pink_bob.png" width="120" alt="Ethiopia RolePlay Logo"/>
+
+### Ethiopia RolePlay
+**FiveM ESX Roleplay Server**
+
+Structured & performance-focused roleplay server built with custom systems and optimized ESX framework.
+
+<a href="https://discord.gg/saJXbD2Gpm">
+  <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://r2.fivemanage.com/ivIrsLdnXbMGRqiRgtDfh/logov2.png" width="120" alt="Projekt Beredskab Logo"/>
+
+### Projekt Beredskab
+**Emergency Services RP Project**
+
+Realistic emergency services systems with structured procedures and immersive roleplay mechanics.
+
+<a href="https://discord.gg/kPhpUtTm9R">
+  <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://skillicons.dev/icons?i=discord" width="120" alt="T&T Studio Logo"/>
+
+### T&T Studio
+**FiveM Development Studio**
+
+Custom ESX scripts, NUI systems, and performance-optimized server development.
+
+<a href="https://discord.gg/7SA7vfhczF">
+  <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
 ## 🛠️ Tech Stack
 ```
 Languages:   Lua, JavaScript, HTML, CSS
@@ -31,3 +88,4 @@ Frameworks:  ESX, ox_lib
 Database:    MySQL
 Tools:       Git, VS Code
 Platform:    FiveM
+
