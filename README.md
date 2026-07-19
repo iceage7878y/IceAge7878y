@@ -1,28 +1,23 @@
 # 👋 Hi, I'm IceAge <img src="https://cdn.discordapp.com/attachments/1309232241028632577/1450762630305157131/rexrundet.png?ex=6943b77c&is=694265fc&hm=aef327d5f228b615f2b1e9f5c57e3fb1068ee58f5bb5e913377dfc1c2a18e5e7&" width="64">
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/6cxK4NqQ8V)
-[![Insta me](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/iceage7878yy/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/iceage7878yy/)
 
 🎮 **FiveM Server Owner & Developer**  
-💻 Learning **Lua, HTML, CSS & JavaScript**  
-🚀 Focused on **ESX development, UI & server systems**
+💻 **Lua, HTML, CSS & JavaScript Developer**  
+🚀 Focused on **Qbox & ESX development, UI & custom systems**
 
 ## 🔧 About Me
-I am a FiveM server owner and developer working mainly with **ESX-based servers**.  
-I enjoy building scripts, systems, and clean UI solutions that improve roleplay quality and server performance.
 
+I'm a FiveM developer specializing in **Qbox & ESX** development. I build custom gameplay systems, modern UI, and optimized scripts for high-quality roleplay servers.
 
-## 🧠 Currently Learning
-- Lua (FiveM scripting)
-- JavaScript (NUI & ox_lib)
-- HTML & CSS (UI design)
-- Better code structure & optimization
+🎓 **Software & Game Development Student**, learning game development, programming, and 3D design while expanding my development skills.
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,html,css,js,discordjs" />
+    <img src="https://skillicons.dev/icons?i=lua,html,css,js,discordjs,mysql,git,vscode" />
   </a>
 </p>
-
 
 ## 🚀 Projects
 
@@ -30,46 +25,32 @@ I enjoy building scripts, systems, and clean UI solutions that improve roleplay 
 
 <table>
 <tr>
-<td align="center" width="33%">
 
-<img src="https://r2.fivemanage.com/aPicDRxqjfLR0M9odLijU/pink_bob.png" width="120" alt="Ethiopia RolePlay Logo"/>
+<td align="center" width="50%">
 
-### Ethiopia RolePlay
-**FiveM ESX Roleplay Server**
+<img src="https://r2.fivemanage.com/aPicDRxqjfLR0M9odLijU/pink_bob.png" width="120" alt="Los Santos Legacy RolePlay Logo"/>
 
-Structured & performance-focused roleplay server built with custom systems and optimized ESX framework.
+### Los Santos Legacy RolePlay
+**FiveM Qbox & ESX Economy Server**
 
-<a href="https://discord.gg/saJXbD2Gpm">
+Los Santos Legacy RolePlay is an economy server with realistic, high-quality roleplay built on **Qbox & ESX**.
+
+<a href="https://discord.gg/56xcpE8kHG">
   <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 
-<img src="https://r2.fivemanage.com/ivIrsLdnXbMGRqiRgtDfh/logov2.png" width="120" alt="Projekt Beredskab Logo"/>
+<img src="https://r2.fivemanage.com/aPicDRxqjfLR0M9odLijU/90b77ea98a31a78757a77bd9c4238896.png" width="120" alt="Next Resource Studio Logo"/>
 
-### Projekt Beredskab
-**Emergency Services RP Project**
-
-Realistic emergency services systems with structured procedures and immersive roleplay mechanics.
-
-<a href="https://discord.gg/kPhpUtTm9R">
-  <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://r2.fivemanage.com/aPicDRxqjfLR0M9odLijU/90b77ea98a31a78757a77bd9c4238896.png" width="120" alt="T&T Studio Logo"/>
-
-### T&T Studio
+### Next Resource Studio
 **FiveM Development Studio**
 
-Custom ESX scripts, NUI systems, and performance-optimized server development.
+Developing premium **Qbox & ESX** resources, custom systems, and modern UI solutions for FiveM.
 
-<a href="https://discord.gg/7SA7vfhczF">
+<a href="https://discord.gg/J7syPuF7mc">
   <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
@@ -80,12 +61,12 @@ Custom ESX scripts, NUI systems, and performance-optimized server development.
 
 </div>
 
-
 ## 🛠️ Tech Stack
-```
+
+```text
 Languages:   Lua, JavaScript, HTML, CSS
-Frameworks:  ESX, ox_lib
+Frameworks:  Qbox, ESX, ox_lib
 Database:    MySQL
 Tools:       Git, VS Code
 Platform:    FiveM
-
+```
