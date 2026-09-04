@@ -52,20 +52,6 @@ Vision RP – Join i dag og start dit RP-eventyr! Vi tilbyder realistisk RP med 
 <td align="center" width="50%">
 <img src="https://r2.fivemanage.com/aPicDRxqjfLR0M9odLijU/stf2000s.png" width="120" alt="Stories From The 2000s Logo"/>
 
-### Stories From The 2000s
-**Development Team Management**
-
-A whole different look in the early 2000's, our server recreates the authentic atmosphere of Liberty City.
-
-<a href="https://discord.gg/stf2000s">
-  <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-</div>
-
 ## 🛠️ Tech Stack
 
 ```text
