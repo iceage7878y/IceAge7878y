@@ -34,6 +34,9 @@ Developing premium **Qbox & ESX** resources, custom systems, and modern UI solut
 <a href="https://discord.gg/J7syPuF7mc">
   <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
+<a href="https://www.nrstudio.dk/">
+  <img src="https://img.shields.io/badge/Tebex-00D26A?style=for-the-badge&logo=shopify&logoColor=white">
+</a>
 </td>
 <td align="center" width="50%">
 <img src="https://r2.fivemanage.com/c2V51if9qHFMCGOF7ciyh/vision_serverlogo.png" width="120" alt="Vision RP Logo"/>
@@ -45,6 +48,9 @@ Vision RP – Join i dag og start dit RP-eventyr! Vi tilbyder realistisk RP med 
 
 <a href="https://discord.gg/BCKsK37eCF">
   <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+<a href="https://visionrp.dk/">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 </td>
 </tr>
