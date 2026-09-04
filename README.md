@@ -44,12 +44,12 @@ Developing premium **Qbox & ESX** resources, custom systems, and modern UI solut
 Vision RP – Join i dag og start dit RP-eventyr! Vi tilbyder realistisk RP med sjove scenarier, spændende oplevelser og et stærkt fællesskab. Hos Vision RP handler det om godt roleplay og et stærkt fællesskab.
 
 <a href="https://discord.gg/BCKsK37eCF">
-  <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+
 
 ## 🛠️ Tech Stack
 
