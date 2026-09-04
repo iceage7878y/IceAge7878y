@@ -50,7 +50,6 @@ Vision RP – Join i dag og start dit RP-eventyr! Vi tilbyder realistisk RP med 
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="https://r2.fivemanage.com/aPicDRxqjfLR0M9odLijU/stf2000s.png" width="120" alt="Stories From The 2000s Logo"/>
 
 ## 🛠️ Tech Stack
 
