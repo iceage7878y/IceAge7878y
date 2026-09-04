@@ -54,9 +54,9 @@ Vision RP – Join i dag og start dit RP-eventyr! Vi tilbyder realistisk RP med 
 ## 🛠️ Tech Stack
 
 ```text
-Languages:   Lua, JavaScript, HTML, CSS
-Frameworks:  Qbox, ESX, ox_lib
-Database:    MySQL
-Tools:       Git, VS Code
-Platform:    FiveM
+Languages: Lua, JavaScript, HTML, CSS
+Frameworks: Qbox, ESX, ox_lib
+Database: MySQL
+Tools: Git, VS Code
+Platform: FiveM
 ```
